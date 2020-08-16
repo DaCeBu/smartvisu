@@ -1,0 +1,3 @@
+[submodule "pages/dacebu"]
+	path = pages/dacebu
+	url = git@github.com:DaCeBu/smartvisu_config.git
